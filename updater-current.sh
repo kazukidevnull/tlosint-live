@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 tput setaf 5;echo "###############################"
 tput setaf 5;echo "# Trace Labs OSINT VM Updater #"
 tput setaf 5;echo "###############################"
